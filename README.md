@@ -4,7 +4,7 @@ This is a simple wikipedia search which showing the articles using [WIKIPEDIA](h
 
 ## Demo
 
-Live Site URL: [Preview](simple-wiki-search.vercel.app)
+Live Site URL: [Preview](https://simple-wiki-search.vercel.app)
 
 ## Features
 
